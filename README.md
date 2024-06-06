@@ -25,8 +25,7 @@ The pipeline encompasses several key processes:
 
 ## Data
 
-Genome data (including sequence, gff and pangenome graph generated in manuscript) available at Pear Multiomics Database(https://pearomics.njau.edu.cn/). 
-
+Genomic data (including sequence, GFF, and pangenome graph generated in this manuscript) are available at the Pear Multiomics Database (https://pearomics.njau.edu.cn/).
 
 
 ## License
