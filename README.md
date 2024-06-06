@@ -28,6 +28,7 @@ The pipeline encompasses several key processes:
 Genomic data (including sequence, GFF, and pangenome graph generated in this manuscript) are available at the Pear Multiomics Database (https://pearomics.njau.edu.cn/).
 
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
@@ -38,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Please cite this paper if you find our pipeline or script helpful in your study:
 
-##### Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal diverse patterns of allele-specific expression and genomic basis of fruit quality traits
+<B>Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal diverse patterns of allele-specific expression and genomic basis of fruit quality traits</B>
