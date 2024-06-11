@@ -148,7 +148,6 @@ if __name__ == '__main__':
             else:
                 lne = i.strip('\n').split('\t')
                 dct1.setdefault(lne[0], []).append(lne[1])
-        ##直接判断是否为allele，如果是就留下，如果都是就都留下
         for k, v in dct1.items():
             qchr, qstart, qend = fbed.new_dct[k].chr, fbed.new_dct[k].s, fbed.new_dct[k].e
             #   print(qchr,qstart,qend)
