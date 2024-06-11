@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Please cite this paper if you find our pipeline or script helpful in your study:
 
-<B>Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal diverse patterns of allele-specific expression and genomic basis of fruit quality traits</B>
+<B>Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal diverse patterns of allele-specific expression and genomic basis of fruit quality traits. Plant Communications. https://doi.org/10.1016/j.xplc.2024.101000</B>
