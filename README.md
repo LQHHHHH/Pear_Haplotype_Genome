@@ -26,9 +26,9 @@ The pipeline encompasses several key processes:
 ## Data
 **If you cannot access https://pearomics.njau.edu.cn/ to download the genome data, please use the following link instead:**
 
-Download link: https://pan.baidu.com/s/1ltCDnkOZ6Ut1fKkaWG7qpA?pwd=rv8d
+Download link: https://pan.baidu.com/s/1BRQDj8BfO8Mbz_W0q3W0VA?pwd=btut
 
-Password: rv8d
+Password: btut
 
 Genomic data (including sequence, GFF, and pangenome graph generated in this manuscript) are available at the Pear Multiomics Database (https://pearomics.njau.edu.cn/).
 
